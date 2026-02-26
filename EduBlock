@@ -1,0 +1,43 @@
+
+```json
+{
+  "chain_name": "EduBlock Academy",
+  "chain_id": 54321,
+  "symbol": "EDU",
+  "decimals": 18,
+  "programming_language": "Python",
+  
+  "supply": {
+    "genesis_supply": 4000000,
+    "max_supply": 20000000,
+    "circulating_supply": 4000000
+  },
+  
+  "block_details": {
+    "block_time": 10,
+    "block_reward": 12,
+    "halving_interval": 210000,
+    "halving_count": 0,
+    "current_block_reward": 12
+  },
+  
+  "consensus": {
+    "type": "Proof of Learning",
+    "validators": 21,
+    "minimum_stake": 20000
+  },
+  
+  "network": {
+    "network_type": "testnet",
+    "launch_date": "2026-02-25",
+    "rpc_url": "https://edublock.testnet.canopy.network",
+    "explorer_url": "https://explorer.edublock.network"
+  },
+  
+  "project_info": {
+    "creator": "Misagh95",
+    "github": "https://github.com/Misagh95",
+    "description": "Educational credentials and e-learning platform",
+    "category": "Education"
+  }
+}
