@@ -29,7 +29,7 @@
   
   "network": {
     "network_type": "testnet",
-    "launch_date": "2026-02-25",
+    "launch_date": "2026-02-26",
     "rpc_url": "https://edublock.testnet.canopy.network",
     "explorer_url": "https://explorer.edublock.network"
   },
